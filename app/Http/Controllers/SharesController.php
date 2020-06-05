@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Shares;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
 
 class SharesController extends Controller
 {
